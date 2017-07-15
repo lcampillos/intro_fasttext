@@ -34,7 +34,7 @@ Load any of the following models trained with character n-grams (min.: 4; max.: 
 
 `EMEA_part_fr_ws1_4-8chgr_dim100_neg10`
 
-Try out-of-vocabulary words and compare the output.
+Try out-of-vocabulary words: e.g. spelling mistakes (&ast;*adpirine*, &ast;*colioscopie*), commercial names (&ast;*nintédanib*).  Compare the output.
 
 ## Act. 1.2. Exploring the effect of window size
 
