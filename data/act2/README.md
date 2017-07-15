@@ -47,7 +47,7 @@ Train using default parameters:
 `Progress: 100.0%  words/sec/thread: 2259793  lr: 0.000000  loss: 0.350939  eta: 0h0m`
 
 
-##2.2. Test the model
+## 2.2. Test the model
 
  Test the model with the following command (results given in precision and recall; by default, k=1, i.e. precision and recall @1): 
 
