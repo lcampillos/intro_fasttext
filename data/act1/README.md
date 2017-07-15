@@ -12,7 +12,7 @@ If we test an out-of-vocabulary word, we use the fastText .bin model containing 
 
 ## Act. 1.1. Exploring the effect of character n-grams
 
-### 1.1.1. Train and load a model without character n grams: 
+### 1.1.1. Train and load a model without character n-grams
 
 `EMEA_part_fr_ws10_0chgr_dim100_neg10`
 
@@ -26,7 +26,9 @@ Notice the results that you get.
 
 Then try again with another model with a different window size than that tested before. Note if you get a different output.
 
-### 1.1.2. Load any of the following models trained with character n-grams (min.: 4; max.: 8) and the same configuration as the previous ones (except window size):
+### 1.1.2. Train and load a model with character n-grams
+
+Load any of the following models trained with character n-grams (min.: 4; max.: 8) and the same configuration as the previous ones (except window size):
 
 `EMEA_part_fr_ws10_4-8chgr_dim100_neg10`
 
